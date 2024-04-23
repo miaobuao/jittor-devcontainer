@@ -15,4 +15,6 @@ RUN echo \
     pillow \
     notebook \
     matplotlib \
+    opencv-python \
+    opencv-python-headless \
     jittor 
